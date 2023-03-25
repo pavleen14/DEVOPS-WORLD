@@ -43,7 +43,7 @@ Follow the Roadmap:
 ## DevOps Pre-requisite 
 
 - [DevOps Prerequisites Course - Getting started with DevOps - FREE](https://youtu.be/Wvf0mBNGjXY)
-
+(Done) <br>
 (Virtual Box Installation, Connectivity & Networking can be skipped) <br>
 (Skip Vagrant,  Networking - Switching and Routing, IP Addressing & Introduction to YAML)
 
@@ -54,7 +54,8 @@ Follow the Roadmap:
 
 - [Networking Animated Videos - FREE](https://youtube.com/playlist?list=PL7zRJGi6nMRzg0LdsR7F3olyLGoBcIvvg)
 
-- [DevOps - Networking knowledge base - FREE](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H)
+- [DevOps - Networking knowledge base - FREE](https://youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H) 
+(Done)
 
 - [Network Fundementals Playlists - FREE](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) 
 
