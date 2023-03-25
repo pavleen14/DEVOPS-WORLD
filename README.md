@@ -44,6 +44,8 @@ Follow the Roadmap:
 
 - [DevOps Prerequisites Course - Getting started with DevOps - FREE](https://youtu.be/Wvf0mBNGjXY)
 
+(Virtual Box Installation, Connectivity & Networking can be skipped)
+
 
 ## NETWOKING
 
